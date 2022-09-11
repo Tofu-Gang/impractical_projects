@@ -1,11 +1,11 @@
 __author__ = "Jakub Franěk"
 __email__ = "tofugangsw@gmail.com"
 
-from src.utils import load_words
+from utils.utils import load_words
 
 ################################################################################
 
-DICT_PATH = "src/2of4brif.txt"
+DICT_PATH = "../utils/2of4brif.txt"
 
 ################################################################################
 
